@@ -1,0 +1,15 @@
+pyserial>=3.5
+tkinter-tooltip>=2.1.0
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+Pillow>=10.0.0
+pyautogui>=0.9.54
+pynput>=1.7.6
+psutil>=5.9.0
+pyttsx3>=2.90
+speechrecognition>=3.10.0
+pyaudio>=0.2.13
+requests>=2.31.0
+esptool>=4.6.0
+adafruit-ampy>=1.1.0
