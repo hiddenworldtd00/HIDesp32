@@ -74,7 +74,7 @@ python run.py
 
 ## 🖥️ Interface
 
-- **Titre**: Grand texte coloré "HIDesp32"
+- **Titre**: "HIDesp32"
 - **Barre de progression**: 1-100% lors de la connexion
 - **Menu**: Toutes les fonctionnalités ESP32
 - **Onglets**: Organisation par catégories
